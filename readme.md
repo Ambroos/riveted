@@ -33,7 +33,7 @@ If you'd like to integrate with Google Tag Manager, here are the dataLayer varia
 You can install Riveted as a [Drupal module](https://www.drupal.org/project/riveted).
 
 ## Browser Support
-Tested in latest versions of Chrome, Firefox, Safari, and Opera. Internet Explorer 8-11. iOS and Android.
+Tested in latest versions of Chrome, Firefox, Safari, and Opera. Internet Explorer 9-11. iOS and Android.
 
 ## Contact
 If you have any questions you can find me on Twitter at [@robflaherty](https://twitter.com/robflaherty).

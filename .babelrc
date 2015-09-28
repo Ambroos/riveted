@@ -1,0 +1,14 @@
+{
+    "ignore": [
+        "node_modules/**/*"
+    ],
+    "optional": [
+        "runtime",
+        "utility.inlineEnvironmentVariables",
+        "es7.objectRestSpread",
+        "es7.classProperties",
+    ],
+    "loose": [
+        "all"
+    ]
+}
